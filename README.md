@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MekadS
-- 👀 I’m interested in Coding, Android and Gaming.
-- 🌱 I’m currently learning Android Developmment.
-- 💞️ I’m looking to collaborate on finding solutions.
+A Computer Science grad from Meghalaya, who loves computers from a very young age. I completed the Google Data Analytics Specialization from Coursera in April 2022 and am keen on learning more. My passions include Data Analytics, Cyber Security, Information Technology, and working with Linux.
 <-- 📫 How to reach me ... -->
 
 <!---
